@@ -61,7 +61,7 @@ namespace QuizMe_
                 if (loggedIn)
                 {
                     // SUCCESS: Open the landing page
-                    Dashboard1 dashboard = new Dashboard1();
+                    Dashboard2 dashboard = new Dashboard2();
                     dashboard.Show();
                     this.Hide(); // Hide the login form
                 }
