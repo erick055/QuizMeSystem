@@ -16,5 +16,13 @@ namespace QuizMe_
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+             Dashboard2 dashboard = new Dashboard2();
+            this.Hide();
+
+            dashboard.Show();
+        }
     }
 }

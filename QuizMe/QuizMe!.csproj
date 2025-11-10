@@ -26,6 +26,8 @@
     <Compile Remove="Quizzes.Designer.cs" />
     <Compile Remove="RecoverAccount.cs" />
     <Compile Remove="RecoverAccount.Designer.cs" />
+    <Compile Remove="Scheduler.cs" />
+    <Compile Remove="Scheduler.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,6 +39,7 @@
     <EmbeddedResource Remove="LandingPage.resx" />
     <EmbeddedResource Remove="Quizzes.resx" />
     <EmbeddedResource Remove="RecoverAccount.resx" />
+    <EmbeddedResource Remove="Scheduler.resx" />
   </ItemGroup>
 
   <ItemGroup>
