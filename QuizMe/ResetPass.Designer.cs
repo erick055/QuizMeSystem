@@ -93,7 +93,6 @@
             // pictureBox1
             // 
             pictureBox1.ErrorImage = (Image)resources.GetObject("pictureBox1.ErrorImage");
-            pictureBox1.Image = Properties.Resources.dde7aff1_06ba_424d_9487_3f96da3c3b2b_removebg_preview;
             pictureBox1.Location = new Point(100, 417);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(446, 428);
