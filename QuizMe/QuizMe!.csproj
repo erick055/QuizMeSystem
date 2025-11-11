@@ -20,8 +20,6 @@
     <Compile Remove="Flashcardquestion2.Designer.cs" />
     <Compile Remove="Flashcardsquestion2.cs" />
     <Compile Remove="Flashcardsquestion2.Designer.cs" />
-    <Compile Remove="LandingPage.cs" />
-    <Compile Remove="LandingPage.Designer.cs" />
     <Compile Remove="Quizzes.cs" />
     <Compile Remove="Quizzes.Designer.cs" />
     <Compile Remove="RecoverAccount.cs" />
@@ -36,7 +34,6 @@
     <EmbeddedResource Remove="Flashcardanswer1.resx" />
     <EmbeddedResource Remove="Flashcardquestion2.resx" />
     <EmbeddedResource Remove="Flashcardsquestion2.resx" />
-    <EmbeddedResource Remove="LandingPage.resx" />
     <EmbeddedResource Remove="Quizzes.resx" />
     <EmbeddedResource Remove="RecoverAccount.resx" />
     <EmbeddedResource Remove="Scheduler.resx" />

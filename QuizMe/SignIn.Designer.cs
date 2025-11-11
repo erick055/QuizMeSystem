@@ -50,7 +50,6 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources._62590f93_1687_4375_aeda_96d19af88f87_removebg_preview;
             pictureBox1.Location = new Point(247, 584);
             pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
